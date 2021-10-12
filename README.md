@@ -1,1 +1,0 @@
-# Gissa-tal
