@@ -4,7 +4,7 @@ Loop:
 {Om svaret är mindre än talet
    skriv "Talet är för låg, var god försök igen"
 Om svaret är storre än talet
-   skriv "Talet är för låg, var god försök igen"}
+   skriv "Talet är för högt, var god försök igen"}
 
 Om svaret är rätt
 Funktion { räkna antalet försök}
