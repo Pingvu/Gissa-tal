@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\gissa tal\\gissa tal.csproj": {}
+    "C:\\Users\\Admin\\Documents\\Gissa-tal\\gissa tal LO\\gissa tal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\gissa tal\\gissa tal.csproj": {
+    "C:\\Users\\Admin\\Documents\\Gissa-tal\\gissa tal LO\\gissa tal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\gissa tal\\gissa tal.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\Gissa-tal\\gissa tal LO\\gissa tal.csproj",
         "projectName": "gissa tal",
-        "projectPath": "C:\\Users\\Admin\\Documents\\gissa tal\\gissa tal.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\Gissa-tal\\gissa tal LO\\gissa tal.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\gissa tal\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\Gissa-tal\\gissa tal LO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

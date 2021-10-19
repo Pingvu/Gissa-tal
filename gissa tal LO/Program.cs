@@ -9,7 +9,7 @@ namespace gissa_tal
         Random slump= new Random();
         int randy = slump.Next(100);
         int nt= 0;
-        Console.WriteLine("Gissa ett tal");
+        Console.WriteLine("Gissa ett tal: ");
         int tal= int.Parse(Console.ReadLine());
        while (tal != randy){
            if (tal < randy){
@@ -19,9 +19,11 @@ namespace gissa_tal
                Console.WriteLine("talet är för högt");
            }
            nt +=1;
+           Console.WriteLine("Gissa ett tal: ");
+           tal= int.Parse(Console.ReadLine());
        }
             Console.WriteLine("det är rätt tal");
-            Console.WriteLine("här är antalet försök" + nt);
+            Console.WriteLine("här är antalet försök: " + nt);
             
         }
     }
